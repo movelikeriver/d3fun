@@ -1,4 +1,6 @@
 # d3fun
+
+## Resources
 Checkout tons of resources in [http://d3js.org/](http://d3js.org/).
 
 ## Usage
